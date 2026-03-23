@@ -1,10 +1,10 @@
-HedgeBox  Automated Hedging for Bitcoin Holders
+ArbiBot  Automated Hedging for Bitcoin Holders
 
 A decentralized hedging contract on Stacks blockchain that protects Bitcoin holders from forex volatility by enabling synthetic currency exposures and locked exchange rates.
 
  Overview
 
-HedgeBox creates a secure marketplace for Bitcoin holders to hedge against currency fluctuations. Users post collateral to lock in exchange rates for specific currency pairs, protecting themselves from adverse price movements while potentially benefiting from favorable ones.
+ArbiBot creates a secure marketplace for Bitcoin holders to hedge against currency fluctuations. Users post collateral to lock in exchange rates for specific currency pairs, protecting themselves from adverse price movements while potentially benefiting from favorable ones.
 
  Features
 
